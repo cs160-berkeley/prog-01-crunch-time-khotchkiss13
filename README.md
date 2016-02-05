@@ -5,7 +5,7 @@ a simple and intuitive design to determine how many calories different activitie
 what it takes to burn the same amount of calories with different activities, as well as
 track groups of past activities with calorie totals.
 
-Calorie receipt used the Material Design guideline crafted by Google in order to
+Calorie receipt uses the Material Design guideline crafted by Google in order to
 provide a visually pleasing interface that blends in with the system applications
 on Android devices.
 
@@ -15,7 +15,7 @@ Kyle Hotchkiss ([khotchkiss13@berkeley.edu](mailto:khotchkiss13@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [Prog 01 Demonstration] (https://youtu.be/aZIhvdJ5BGc)
 
 ## Screenshots: Base Features
 
