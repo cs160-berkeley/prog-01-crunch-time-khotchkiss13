@@ -1,6 +1,13 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+Calorie Receipt is a calorie conversion and documenting app. Calorie receipt offers
+a simple and intuitive design to determine how many calories different activities burn,
+what it takes to burn the same amount of calories with different activities, as well as
+track groups of past activities with calorie totals.
+
+Calorie receipt used the Material Design guideline crafted by Google in order to
+provide a visually pleasing interface that blends in with the system applications
+on Android devices.
 
 ## Authors
 
@@ -91,7 +98,14 @@ View of all items in a receipt:
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Any other support
+* I would like to thank Google for providing very detailed guidelines to
+produce great looking application. I would also like to thank them for their
+icon set, which I use throughout the app.
+* I would especially like to thank Stack Overflow for being my guide throughout the
+entire development process. I don't think I could do this without their service.
+* Thank you to the GSI's for helping us get started with Android and UI design.
+* Lastly, I would like to thank YouTube for allowing developers to post tutorial
+videos on Android development, as well as r/Android user u/santachesthairs for his
+very detailed guide for getting started with Android development.
 
 *Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
