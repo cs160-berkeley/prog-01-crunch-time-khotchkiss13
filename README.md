@@ -69,6 +69,16 @@ Results in shortened spinner list:
 
 <img src="screenshots/shortened_spinner.png" height="400" alt="Screenshot"/>
 
+## Screenshots: Extra Feature: Change Orientation
+
+Orientation on Tab 1:
+
+<img src="screenshots/orientation_1.png" height="400" alt="Screenshot"/>
+
+Orientation on Tab 2:
+
+<img src="screenshots/orientation_2.png" height="400" alt="Screenshot"/>
+
 ## Screenshots: Extra Feature: Keep track of activities
 
 Empty activity collection (Receipt) screen:
@@ -107,5 +117,3 @@ entire development process. I don't think I could do this without their service.
 * Lastly, I would like to thank YouTube for allowing developers to post tutorial
 videos on Android development, as well as r/Android user u/santachesthairs for his
 very detailed guide for getting started with Android development.
-
-*Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
