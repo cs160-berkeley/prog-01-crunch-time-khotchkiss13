@@ -82,7 +82,7 @@ Filling out receipt form:
 
 Receipt saved:
 
-<img src="screenshots/receipt_saved.png.png" height="400" alt="Screenshot"/>
+<img src="screenshots/receipt_saved.png" height="400" alt="Screenshot"/>
 
 View of all items in a receipt:
 
