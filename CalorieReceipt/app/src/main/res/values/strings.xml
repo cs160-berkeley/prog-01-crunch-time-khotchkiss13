@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Calorie Receipt</string>
+    <string name="action_settings">Activity Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_settings">Activity Settings</string>
+    <string name="units_1">Reps</string>
+    <string name="units_2">Minutes</string>
+    <string name="units_3">Total</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">Activities</string>
+
+    <string name="pref_title_activity_1">Cycling</string>
+    <string name="pref_title_activity_2">Jogging</string>
+    <string name="pref_title_activity_3">Jumping Jack</string>
+    <string name="pref_title_activity_4">Leg-Lift</string>
+    <string name="pref_title_activity_5">Plank</string>
+    <string name="pref_title_activity_6">Pull ups</string>
+    <string name="pref_title_activity_7">Push ups</string>
+    <string name="pref_title_activity_8">Sit ups</string>
+    <string name="pref_title_activity_9">Squats</string>
+    <string name="pref_title_activity_10">Stair-Climbing</string>
+    <string name="pref_title_activity_11">Swimming</string>
+    <string name="pref_title_activity_12">Walking</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string-array name="activities_list">
+        <item>Select Activity...</item>
+        <item>Cycling</item>
+        <item>Jogging</item>
+        <item>Jumping Jacks</item>
+        <item>Leg-Lift</item>
+        <item>Plank</item>
+        <item>Pull ups</item>
+        <item>Push ups</item>
+        <item>Sit ups</item>
+        <item>Squats</item>
+        <item>Stair-Climbing</item>
+        <item>Swimming</item>
+        <item>Walking</item>
+    </string-array>
+    <string name="title_activity_receipt">ReceiptActivity</string>
+</resources>
